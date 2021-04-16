@@ -1,0 +1,25 @@
+# Python builds
+
+*.egg-info
+*.pyc
+build
+dist
+
+# Editors
+
+.project
+.pydevproject
+.settings
+.spyderproject
+.vscode
+
+# OS stuff
+
+.DS_Store
+*~
+
+# VSCode 
+.vscode/
+.vscode/settings.json
+
+Makefile
